@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Results (u .asm files)
+*.asm
+
+# IDE + System Files
+.vscode/
+.idea/
+.DS_Store
